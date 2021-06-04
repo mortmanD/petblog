@@ -67,8 +67,27 @@ th, td {
 }
 #navbar{
     background-color: lime;
+    font-weight: 700;
     height: 34px;
     text-align: center;
-    font-size: inherit;
+    
     color: red;
+    text-transform: uppercase;
+    padding: 1em;
+}
+a:link {
+    color: red;
+        }
+a:visited {
+            color: blue;
+
+          }
+a:hover {
+            color:yellow;
+        }
+a:active {
+            color:sienna;
+          }
+span{
+    color: blue;
 }
