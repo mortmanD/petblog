@@ -91,3 +91,11 @@ a:active {
 span{
     color: blue;
 }
+.column1,.column2,.colum3{
+        float: left;
+        width: 33.33%;
+        }
+        .footer{
+            background-color: skyblue;
+            margin-top: 50px;
+        }
