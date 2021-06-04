@@ -1,0 +1,17 @@
+p{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    background-color: silver;
+}
+h1{
+    color: blueviolet;
+    background-color: burlywood;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+.header{
+    background-color: chartreuse;
+    font-weight: 700;
+    color: red;
+}
